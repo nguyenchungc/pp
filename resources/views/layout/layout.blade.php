@@ -86,6 +86,9 @@
   </div> --}}
   <!-- Full Page Intro -->
   @yield('content')
+  <br>
+  <br>
+  <br>
 <!-- Section: Blog v.1 -->
   <nav class="navbar navbar-default navbar-fixed-bottom bg-success">
     {{-- <div class="container">
